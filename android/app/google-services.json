@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "575103717035",
+    "project_id": "logs-3e873",
+    "storage_bucket": "logs-3e873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575103717035:android:b83b4ad5417616f9ef31ee",
+        "android_client_info": {
+          "package_name": "codeviks.come"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3s66DRovJojPm3owHj4-9SrOrv9AOgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575103717035:android:5c1f0af8c56ca568ef31ee",
+        "android_client_info": {
+          "package_name": "com.example.disease_brackeout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3s66DRovJojPm3owHj4-9SrOrv9AOgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575103717035:android:925f0f890dca3838ef31ee",
+        "android_client_info": {
+          "package_name": "com.example.disease_breakout_analysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3s66DRovJojPm3owHj4-9SrOrv9AOgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575103717035:android:332b14e5d3920d6def31ee",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3s66DRovJojPm3owHj4-9SrOrv9AOgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575103717035:android:6cf0302923cb0033ef31ee",
+        "android_client_info": {
+          "package_name": "com.example.social_analysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3s66DRovJojPm3owHj4-9SrOrv9AOgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
